@@ -1,2 +1,2 @@
 language = "java10"
-run = "java projet2/App.java"
+run = "javac -d plusieursClasses/bin plusieursClasses/src/edu/djc/classes/Helper.java plusieursClasses/src/edu/djc/classes/App.java \n java -cp plusieursClasses/bin edu.djc.classes.App"
