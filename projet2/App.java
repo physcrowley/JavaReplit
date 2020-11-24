@@ -1,4 +1,3 @@
-package projet2;
 class App
 {
     public static void main(String[] args)
